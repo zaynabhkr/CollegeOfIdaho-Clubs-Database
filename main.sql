@@ -2,7 +2,7 @@
 
 .schema
 
-/*CREATE TABLE Events (
+CREATE TABLE Events (
   EventID INTEGER,
   MoneyAlloted NUMERIC Check (MoneyAlloted >= 0),
   EventDescription TEXT,
@@ -166,5 +166,3 @@ CREATE VIEW Club_Events as
   
 
 
-
-*/

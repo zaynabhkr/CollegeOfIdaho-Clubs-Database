@@ -1,8 +1,8 @@
-#College of Idaho Club Management Database
+# College of Idaho Club Management Database
 
 This project implements a comprehensive database schema for managing various student clubs and their activities at The College of Idaho. The system keeps track of club details, events, executive members, supervisors, and individual members. It also supports creating and managing views for insights into club operations.
 
-##Overview
+## Overview
 
 The database consists of tables such as:
 

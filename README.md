@@ -12,7 +12,7 @@ The database consists of tables such as:
 - **Club:** Contains club-specific information, including location, budget, meeting times, and supervisor details.
 - **YoteExecutive and YoteClub:** Define relationships between members, executives, and their respective clubs.
 
-##Views
+## Views
 
 The database includes several views to provide a structured presentation of data:
 
